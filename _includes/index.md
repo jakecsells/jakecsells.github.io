@@ -1,3 +1,5 @@
+I am a Senior in the Department of Computer Science and Engineering at the University of Nevada, Reno. I am proficient in C/C++, HTML, Python, Java, and C# languages. I am fully capable with the Adobe Suite and I am interested in a large range of Computer Science applications: business applications, graphic art, games and simulations, website development, human-computer interaction, mobile applications, computer graphics, and databases
+
 Email: [jakecsells@gmail.com](mailto:jakecsells@gmail.com)
 
 Phone: (775) 781-8799
@@ -12,4 +14,10 @@ Phone: (775) 781-8799
 
 ##Projects
 
-##School
+###Representative Lookup
+
+Holds all zip codes, national representatives, and other distinguishing facts of each representative in an easy and searchable database.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=http://youtu.be/6OV477_gtlU
+" target="_blank"><img src="http://img.youtube.com/vi/http://youtu.be/6OV477_gtlU/0.jpg" 
+alt="Representative Lookup" width="240" height="180" border="10" /></a>
