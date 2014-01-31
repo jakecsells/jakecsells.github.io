@@ -1,3 +1,5 @@
+<link rel="icon" type="image/ico" href="images/favicon.ico"/>
+
 I am a Senior in the Department of Computer Science and Engineering at the University of Nevada, Reno. I am proficient in C/C++, HTML, Python, Java, and C# languages. I am fully capable with the Adobe Suite and I am interested in a large range of Computer Science applications: business applications, graphic art, games and simulations, website development, human-computer interaction, mobile applications, computer graphics, and databases
 
 Email: [jakecsells@gmail.com](mailto:jakecsells@gmail.com)
