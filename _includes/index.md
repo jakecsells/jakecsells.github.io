@@ -18,6 +18,4 @@ Phone: (775) 781-8799
 
 Holds all zip codes, national representatives, and other distinguishing facts of each representative in an easy and searchable database.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=http://youtu.be/6OV477_gtlU
-" target="_blank"><img src="http://img.youtube.com/vi/http://youtu.be/6OV477_gtlU/0.jpg" 
-alt="Representative Lookup" width="240" height="180" border="10" /></a>
+<iframe width="480" height="360" src="//www.youtube.com/embed/6OV477_gtlU?rel=0" frameborder="0" allowfullscreen></iframe>
