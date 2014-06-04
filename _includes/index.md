@@ -19,7 +19,7 @@ Phone: (775) 781-8799
 <iframe width="560" height="315" src="//www.youtube.com/embed/fk_NYDZzUEM" frameborder="0" allowfullscreen></iframe>
 
 ###OpenGL Games
-Projects created for computer graphics class. The github includes an air hockey and labyrinth game. The repository also includes all project checkpoints.
+These [OpenGL projects](https://github.com/jakecsells/OpenGL-Projects) were created for computer graphics class. The github includes an air hockey and labyrinth game. The repository also includes all project checkpoints.
 <img src="https://raw.githubusercontent.com/jakecsells/jakecsells.github.io/master/graphicprojects.png" alt="Graphics Games"/>
 
 ###Representative Lookup
