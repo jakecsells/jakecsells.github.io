@@ -11,13 +11,16 @@ Phone: (775) 781-8799
 ##Projects
 
 ###Hunt NV
-Hunt Nevada compiles all posted hunt units in Nevada in one central and easy to use android application.
+[Hunt NV](https://play.google.com/store/apps/details?id=com.jakecsells.huntnv) compiles all posted hunt units in Nevada in one central and easy to use android application.
 <iframe width="560" height="315" src="//www.youtube.com/embed/_r-rIx3288U" frameborder="0" allowfullscreen></iframe>
 
 ###SeRR
 [Sample Return Robot](http://jakecsells.github.io/SeRR/) is developed by a group of students including Jake Sells. The robot collects and returns objects.
 <iframe width="560" height="315" src="//www.youtube.com/embed/fk_NYDZzUEM" frameborder="0" allowfullscreen></iframe>
 
+###OpenGL Games
+Projects created for computer graphics class. The github includes an air hockey and labyrinth game. The repository also includes all project checkpoints.
+<img src="graphicprojects.png" alt="Graphics Games"/>
 
 ###Representative Lookup
 Holds all zip codes, national representatives, and other distinguishing facts of each representative in an easy and searchable database.
