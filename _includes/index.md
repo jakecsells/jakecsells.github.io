@@ -1,4 +1,4 @@
-<link rel="icon" type="image/ico" href="favicon.ico"/>
+<link rel="icon" type="image/ico" href="https://raw.githubusercontent.com/jakecsells/jakecsells.github.io/master/favicon.png"/>
 
 I am a graduate of University of Nevada, Reno with a major in Computer Science and Engineering and a minor in Mathematics. I am proficient in C/C++, HTML, Python, Java, and C# languages. I am fully capable with the Adobe Suite and I am interested in a large range of Computer Science applications: business applications, graphic art, games and simulations, website development, human-computer interaction, mobile applications, computer graphics, and databases
 
