@@ -20,7 +20,7 @@ Phone: (775) 781-8799
 
 ###OpenGL Games
 Projects created for computer graphics class. The github includes an air hockey and labyrinth game. The repository also includes all project checkpoints.
-<img src="graphicprojects.png" alt="Graphics Games"/>
+<img src="../graphicprojects.png" alt="Graphics Games"/>
 
 ###Representative Lookup
 Holds all zip codes, national representatives, and other distinguishing facts of each representative in an easy and searchable database.
